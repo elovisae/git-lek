@@ -28,3 +28,7 @@
 		console.log("Hello, how are you?")
 	};
 ```
+
+## My first link:
+
+[Click me! I'm a link to google](https://www.google.se/?hl=sv)
