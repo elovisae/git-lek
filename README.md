@@ -41,3 +41,11 @@
 |##            | Header (h2)  | <h2>Undertitle</h2>  |
 |**Bold**      | Bold text    | **Bold text**        |
 
+## Text decorations:
+
+Make bold text by writing ** before and after text
+**This is bold!**
+
+Make italic text by writing * before and after text
+*This is italic*
+
