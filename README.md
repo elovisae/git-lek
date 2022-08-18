@@ -32,3 +32,12 @@
 ## My first link:
 
 [Click me! I'm a link to google](https://www.google.se/?hl=sv)
+
+##My first table:
+
+|Syntax        |Description   |Example text  |
+| ------------ | ------------ | ------------ |
+|#             | Header (h1)  | Title        |
+|##            | Header (h2)  | Undertitle   |
+|**Bold**      | Bold text    | **Bold text**|
+
