@@ -9,10 +9,11 @@
 ```
 
 <h2>My fist JAVA block </h2>
-```java
+
+```java 
 	public class Main {
-		public static void main(String[] args) {
-			System.out.printIn("Hello World");
-		}
-	};
+  		public static void main(String[] args) {
+    			System.out.println("Hello World");
+  		}
+	}	
 ```
