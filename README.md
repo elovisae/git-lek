@@ -1,6 +1,6 @@
-<h1>Git-lek</h1>
+# Git-lek
 
-<h2>My first JS block:</h2>
+## My first JS block:
 
 ```javascript
 	function message () => {
@@ -8,7 +8,7 @@
 	};
 ```
 
-<h2>My fist JAVA block </h2>
+## My fist JAVA block:
 
 ```java 
 	public class Main {
@@ -33,11 +33,11 @@
 
 [Click me! I'm a link to google](https://www.google.se/?hl=sv)
 
-##My first table:
+## My first table:
 
-|Syntax        |Description   |Example text  |
-| ------------ | ------------ | ------------ |
-|#             | Header (h1)  | Title        |
-|##            | Header (h2)  | Undertitle   |
-|**Bold**      | Bold text    | **Bold text**|
+|Syntax        |Description   |Example text          |
+| ------------ | ------------ | -------------------- |
+|#             | Header (h1)  | <h1>Title</h1>       |
+|##            | Header (h2)  | <h2>Undertitle</h2>  |
+|**Bold**      | Bold text    | **Bold text**        |
 
