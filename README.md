@@ -70,3 +70,13 @@ This is a task list;
 This is a block quote:
 > I am a block quote
 
+## Userstory-012
+
+This is a ER-diagram:
+```mermaid
+	erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+```
+
