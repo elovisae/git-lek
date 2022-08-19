@@ -72,7 +72,7 @@ This is a block quote:
 
 ## Userstory-012
 
-This is a ER-diagram:
+This is an ER-diagram:
 ```mermaid
 	erDiagram
     CUSTOMER ||--o{ ORDER : places
