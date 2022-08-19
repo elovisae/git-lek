@@ -53,3 +53,8 @@ Make italic text by writing * before and after text
 
 This is an alien emoticon: :alien:
 
+## Userstory-009
+This is a horisontal rule:
+---
+
+
