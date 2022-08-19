@@ -122,3 +122,12 @@ sequenceDiagram
     John-->>Alice: Great!
     Alice-)John: See you later!
 ```
+
+
+## Hejsan
+
+```javascript
+ console.log("Hello world")
+
+```
+
