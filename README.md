@@ -111,3 +111,14 @@ classDiagram
 ## Userstory-015
 
 Some words are `very important` and need to be `highlighted`
+
+## Userstory-016
+
+This is a sequence diagram:
+
+```mermaid
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
+```
