@@ -55,7 +55,7 @@ This is an alien emoticon: :alien:
 
 ## Userstory-009
 
-This is an horisontal rule:
+<p>This is an horisontal rule: </p>
 ---
 
 
