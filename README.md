@@ -49,3 +49,7 @@ Make bold text by writing ** before and after text
 Make italic text by writing * before and after text
 *This is italic*
 
+## Userstory-008
+
+This is an alien emoticon: :alien:
+
