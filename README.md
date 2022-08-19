@@ -58,4 +58,10 @@ This is an alien emoticon: :alien:
 <p>This is an horisontal rule: </p>
 ---
 
+## Userstory-010
+
+This is a task list;
+- [x] This task is completed
+- [ ] This task is yet to be completed
+- [ ] This is another task
 
